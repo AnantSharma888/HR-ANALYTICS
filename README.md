@@ -1,2 +1,2 @@
 # HR-ANALYTICS
-The project typically includes analyzing various HR metrics like employee turnover, recruitment processes, compensation and benefits, performance reviews, training effectiveness, and diversity.
+The goal is to optimize attendance management, enhance productivity, reduce absenteeism, and ensure accurate payroll calculations.
